@@ -29,5 +29,13 @@
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org"
-  }
+  },
+  "keywords": [
+    "latex",
+    "format",
+    "formater",
+    "strip",
+    "blank",
+    "trim"
+  ]
 }
