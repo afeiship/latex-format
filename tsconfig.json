@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "outDir": "dist",
+    "declaration": true,
+    "pretty": true,
+    "esModuleInterop": true,
+    "skipDefaultLibCheck": true
+  }
+}
